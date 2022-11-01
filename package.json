@@ -18,9 +18,11 @@
     "@trpc/next": "10.0.0-proxy-beta.15",
     "@trpc/react": "10.0.0-proxy-beta.15",
     "@trpc/server": "10.0.0-proxy-beta.15",
+    "cloudinary-build-url": "^0.2.4",
     "date-fns": "^2.29.3",
     "next": "12.3.1",
     "next-auth": "~4.10.2",
+    "next-s3-upload": "^0.2.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "superjson": "1.9.1",
@@ -28,6 +30,7 @@
     "zustand": "^4.1.3"
   },
   "devDependencies": {
+    "@cld-apis/types": "^0.1.6",
     "@types/node": "18.0.0",
     "@types/react": "18.0.14",
     "@types/react-dom": "18.0.5",
